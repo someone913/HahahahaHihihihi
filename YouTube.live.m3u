@@ -17,8 +17,3 @@ https://api.mbed.cc/youtube/live.m3u8?id=36YnV9STBqc
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/99dbf9e4a8c65d0dd15cb.jpg" group-title="YouTube live", Sholawat
 https://api.mbed.cc/youtube/live.m3u8?id=4utwDFhpOEw
 
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/67f71514c3ccd917fab0a.jpg" group-title="YouTube live", Indonesia
-https://api.mbed.cc/youtube/?id=hTcBL_bg29A
-
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/8dc56e188c1cbff571e3f.jpg" group-title="YouTube live", Bali
-https://api.mbed.cc/youtube/?id=rgk3o2VX57k
