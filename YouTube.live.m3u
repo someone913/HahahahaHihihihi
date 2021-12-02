@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/88c303037fb51f43ec250.jpg" group-title="YouTube live", Musica Studio's
+https://api.mbed.cc/youtube/live.m3u8?id=XZJPsIODAig
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/fa054bc39251629bcf909.jpg" group-title="YouTube live", Musica Klasik
+https://api.mbed.cc/youtube/live.m3u8?id=jqzNMPBUaL8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/7d2401ad26f930d184875.jpg" group-title="YouTube live", Nagaswara
+https://api.mbed.cc/youtube/live.m3u8?id=E7nbg7UVjxU
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b806e1ac6c2f7b57c8a40.jpg" group-title="YouTube live", Waktunya Nostalgia
+https://api.mbed.cc/youtube/live.m3u8?id=oCk57sc5PzA
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/52fab98e00133a2720182.jpg" group-title="YouTube live", Music 24/7
+https://api.mbed.cc/youtube/live.m3u8?id=36YnV9STBqc
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/99dbf9e4a8c65d0dd15cb.jpg" group-title="YouTube live", Sholawat
+https://api.mbed.cc/youtube/live.m3u8?id=4utwDFhpOEw
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/67f71514c3ccd917fab0a.jpg" group-title="YouTube live", Indonesia
+https://api.mbed.cc/youtube/?id=hTcBL_bg29A
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/8dc56e188c1cbff571e3f.jpg" group-title="YouTube live", Bali
+https://api.mbed.cc/youtube/?id=rgk3o2VX57k
